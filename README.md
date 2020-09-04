@@ -1,2 +1,2 @@
-# MultiPlayerCarRacingGame
-class 35 Project 
+# synchronousBallMovement
+Ball moving synchronously
